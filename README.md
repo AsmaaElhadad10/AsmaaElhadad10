@@ -7,7 +7,7 @@
 ### Connect with me:
 !LinkedIn -> https://www.linkedin.com/in/asmaa-elhadad/
 
-### Tools:
+### Skills:
 !Shell script,Postgresql,Mongodb,Java,Linux,C,C++,Database,Billing,Charging,CRM
 
 ### Languages
